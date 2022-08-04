@@ -1,0 +1,19 @@
+
+a{
+    color: beige;
+    font-weight: bold;
+}
+.logout{
+    margin-left: 250px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#228B22;
+    color: white;
+    text-align: center;
+  }
+/*rgb(150, 184, 207)*/
